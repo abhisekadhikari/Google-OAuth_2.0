@@ -6,7 +6,7 @@
   "author": "AbhiTech",
   "license": "MIT",
   "scripts": {
-    "start": "node server",
+    "start": "node src/server",
     "dev": "nodemon src/server"
   },
   "dependencies": {
